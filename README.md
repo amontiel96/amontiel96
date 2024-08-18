@@ -2,7 +2,7 @@
 - 👀 I’m interested in mobile development
 - 🌱 I’m currently learning deployments with CI/CD
 - 💞️ I’m looking to collaborate on full stack projects
-- 📫 How to reach me: http://artmontielssolutions.com
+- 📫 How to reach me: https://www.artmontielssolutions.com
 - 😄 Pronouns: Arthur, Montiel
 
 <!---
